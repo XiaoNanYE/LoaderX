@@ -10,7 +10,7 @@
 **SuperBigLoaderX** 支持1.18.30及以上的所有版本。
 
 #### 3.我应该如何安装它？🚩
-- 前往 [Releases](https://github.com/XiaoNanYE/SuperBigLoaderX/) 下载最新的 **SuperBigLoaderX** 。
+- 前往 [Releases](https://github.com/XiaoNanYE/SuperBigLoaderX/releases) 下载最新的 **SuperBigLoaderX** 。
 - 解压压缩包，将压缩包内所有文件`移动至BDS根目录`。
 - 双击 `SuperBigLoaderX.exe` 进行自动注入。
 - 注入完毕后`手动关闭窗口`后，即可享用！
